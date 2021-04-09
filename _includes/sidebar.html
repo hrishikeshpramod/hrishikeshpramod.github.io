@@ -1,4 +1,8 @@
 <div class="sidebar">
+  {% comment %}
+        The link below is for showing the mail and linkedin icons
+  {% endcomment %}
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
@@ -10,7 +14,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About Me23</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -26,9 +30,12 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Resume</a>
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}">Awards & Recognition</a>
+      <table>
+        <tr><i class="fa fa-envelope" style="font-size:25px;color:white;margin-right: 1em;"></i></tr>
+        <tr><i class="fa fa-linkedin" style="font-size:25px;color:white"></i></tr>
+      </table>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
