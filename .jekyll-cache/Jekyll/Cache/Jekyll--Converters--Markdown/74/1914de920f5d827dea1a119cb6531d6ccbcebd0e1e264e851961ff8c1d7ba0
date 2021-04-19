@@ -1,0 +1,69 @@
+I"�	<p>I’m Hrishikesh P a student Game designer and programmer. I’m a sophomore at Amrita College of Engineering.</p>
+
+<h3 id="as-a-game-designer">As a Game Designer</h3>
+
+<p>Making games is my passion and I want to be able to express myself through my games and hope to work on major titles someday. Each day’s work is a step forward towards this goal.</p>
+
+<h4 id="tech-stack-im-familiar-with">Tech stack I’m familiar with</h4>
+<ul>
+  <li>Game Engines: Unreal Engine, Unity</li>
+  <li>Programming: Visual Scripting, Unreal Blueprints, C++, Python</li>
+  <li>Software: Blender, Maya, Adobe Photoshop, Audacity</li>
+  <li>Version Control: Perforce, Git</li>
+</ul>
+
+<h3 id="as-a-programmer">As a Programmer</h3>
+
+<p>I believe that one of the greatest assets of a game designer is the ability to think like the programmer. The importance of approaching a problem logically and coming up with the most optimum and cost-effective solution can’t be stressed enough.</p>
+
+<h4 id="tech-stack-im-familiar-with-1">Tech stack I’m familiar with</h4>
+<ul>
+  <li>Languages: C++, Python, Java, JS, Dart</li>
+  <li>Frameworks: React, Electron, Flutter.</li>
+</ul>
+
+<h3 id="projects">Projects</h3>
+
+<p>The following are some of the solo projects I’ve worked on while learning the basics of game development.</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Not Today</td>
+            <td>A VR sim documenting illegal organ harvesting made for the VR in journalism competition conducted by University of North Carolina.</td>
+        </tr>
+    </tbody>
+</table>
+<p><a href="http://www.youtube.com/watch?v=iafftaXGegc" title="Not Today"><img src="http://img.youtube.com/vi/iafftaXGegc/0.jpg" alt="Not Today" /></a></p>
+<table>
+    <tbody>
+        <tr>
+            <td>Transit</td>
+            <td>A 3D tunnel bus designed in Blender for the VR design challenge conducted by University of Windsor.</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody>
+        <tr>
+            <td>Wolfie</td>
+            <td>A hypercasual animal RPG where you play as a wolf that has to take down his hunter.</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <tbody>
+        <tr>
+            <td>Pong Ultima</td>
+            <td>Implemented various algorithms for the AI agents, designed the game from scratch using C++ and SDL.</td>
+        </tr>
+    </tbody>
+</table>
+:ET
