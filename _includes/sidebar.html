@@ -13,8 +13,14 @@
       <p class="lead">{{ site.description }}</p>
     </div>
 
+
+    {% comment %}
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About Me23</a>
+      The above page is a blog component that compiles the blog pages and shows it with the date etc. I think it's better to use the about.md
+      which the code dynamically generates (see the component below to get a clear idea)
+    {% endcomment %}
+
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
