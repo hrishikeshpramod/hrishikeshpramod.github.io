@@ -15,17 +15,19 @@
 
 
     {% comment %}
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About Me23</a>
-      The above page is a blog component that compiles the blog pages and shows it with the date etc. I think it's better to use the about.md
-      which the code dynamically generates (see the component below to get a clear idea)
+    The below is a blog component that compiles the blog pages and shows it with the date etc but i modified it.
     {% endcomment %}
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About</a>
+      
+      
 
-
+      <a class="sidebar-nav-item" href="https://drive.google.com/file/d/1zr96MPAqbfXYinUT2nBb5eNVRoJScEmz/view?usp=sharing">Resume</a>
+      
       {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
+        The code below dynamically generates a sidebar nav of pages with BUT I DONT NEED IT NOW SO I'M COMMENTING IT ALL
         `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
+        {% endcomment %}
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
@@ -36,8 +38,6 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Resume</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">Awards & Recognition</a>
       <table>
         <tr><i class="fa fa-envelope" style="font-size:25px;color:white;margin-right: 1em;"></i></tr>
         <tr><i class="fa fa-linkedin" style="font-size:25px;color:white"></i></tr>

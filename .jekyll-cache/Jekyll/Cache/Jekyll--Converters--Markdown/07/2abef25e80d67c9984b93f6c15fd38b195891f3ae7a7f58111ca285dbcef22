@@ -1,8 +1,9 @@
-I"�	<p>I’m Hrishikesh P a student Game designer and programmer. I’m a sophomore at Amrita College of Engineering.</p>
+I"0<p>I’m Hrishikesh P a student Game designer and programmer. I’m a sophomore at Amrita College of Engineering.</p>
 
 <h3 id="as-a-game-designer">As a Game Designer</h3>
 
-<p>Making games is my passion and I want to be able to express myself through my games and hope to work on major titles someday. Each day’s work is a step forward towards this goal.</p>
+<p>Making games is my passion and I want to be able to express myself through my games and hope to work on major titles someday. Each day’s work is a step forward towards this goal.<br />
+I realize that I don’t know everything and I might ‘ve started out late but I recognize my weak points and strive to imporve myself every day.</p>
 
 <h4 id="tech-stack-im-familiar-with">Tech stack I’m familiar with</h4>
 <ul>
@@ -36,7 +37,7 @@
     <tbody>
         <tr>
             <td>Not Today</td>
-            <td>A VR sim documenting illegal organ harvesting made for the VR in journalism competition conducted by University of North Carolina.</td>
+            <td>A VR sim documenting illegal organ harvesting which won the VR in journalism competition conducted by University of North Carolina.</td>
         </tr>
     </tbody>
 </table>
@@ -45,25 +46,27 @@
     <tbody>
         <tr>
             <td>Transit</td>
-            <td>A 3D tunnel bus designed in Blender for the VR design challenge conducted by University of Windsor.</td>
+            <td>A 3D tunnel bus designed in Blender which won the VR design challenge conducted by University of Windsor.</td>
         </tr>
     </tbody>
 </table>
-
+<p><img src="https://github.com/HrishikeshP-01/Safe-Transit-3D-Tunnel-Bus-Design/blob/main/3.png?raw=true" alt="Transit" /></p>
 <table>
     <tbody>
         <tr>
             <td>Wolfie</td>
-            <td>A hypercasual animal RPG where you play as a wolf that has to take down his hunter.</td>
+            <td>A hypercasual animal RPG where you play as a wolf that has to take down his hunter. It won the Best Game award in BotHacks 2020</td>
         </tr>
     </tbody>
 </table>
+<p><img src="https://github.com/HrishikeshP-01/WolfieBeta/blob/master/WhatsApp%20Image%202020-08-18%20at%209.15.00%20PM.jpeg?raw=true" alt="Wolfie" /></p>
 <table>
     <tbody>
         <tr>
             <td>Pong Ultima</td>
-            <td>Implemented various algorithms for the AI agents, designed the game from scratch using C++ and SDL.</td>
+            <td>Implemented various algorithms for the AI agents, designed the game from scratch using C++ and SDL. It won the Apollo Hacks for the AI implementation.</td>
         </tr>
     </tbody>
 </table>
+<p><img src="https://github.com/HrishikeshP-01/Pong-Ultima/blob/master/Result/1.png?raw=true" alt="Pong" /></p>
 :ET
